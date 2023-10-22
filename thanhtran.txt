@@ -1,1 +1,1 @@
-hú le mấy ông
+example for echo
